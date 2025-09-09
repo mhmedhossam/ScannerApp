@@ -1,16 +1,25 @@
-# scanner_app
+📷 Scanner App
 
-A new Flutter project.
+A simple old Flutter project, built as a practice app, that allows users to scan documents or QR codes and view them directly inside the app using WebView.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+Scan documents / QR codes using scanner package
 
-A few resources to get you started if this is your first Flutter project:
+Display scanned content inside the app using webview package
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lightweight and easy-to-use interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack
+
+Flutter (Cross-platform framework)
+
+scanner package (for scanning)
+
+webview package (for in-app viewing)
+
+📱 Platforms
+
+Android
+
+iOS
